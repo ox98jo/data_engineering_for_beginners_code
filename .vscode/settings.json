@@ -1,0 +1,4 @@
+{
+    "jupyter.jupyterServerType": "remote",
+    "jupyter.jupyterServerURI": "http://localhost:8888"
+}
